@@ -1,10 +1,10 @@
 -- ============================================================
 --  SantiagoHub | main.lua
 --  Paste this into your executor and run it.
---  Repository: github.com/YourUser/SantiagoHub
+--  Repository: github.com/fixingbugsat3am-dot/SantiagoHub
 -- ============================================================
 
-local RAW = "https://raw.githubusercontent.com/YourUser/SantiagoHub/main/"
+local RAW = "https://raw.githubusercontent.com/fixingbugsat3am-dot/SantiagoHub/main/"
 local BASE = RAW .. "BloxFruitsScripts/"
 
 -- debounce so re-running doesn't double-load
